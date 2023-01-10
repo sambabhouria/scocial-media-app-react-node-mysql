@@ -3,15 +3,15 @@ Social network application project using React, Node.js and MySQL. Full-stack So
 
 # `Tech Front`
     1.React
-    1.hooks
-    1.Context API
-    1.React-query,
+    2.hooks
+    3.Context API
+    4.React-query,
 
 # `Tech Backend`
     1.Node
-    1.MySQL
-    1.JWT
-    1.Cookies
+    2.MySQL
+    3.JWT
+    4.Cookies
 
 # `ScreenShot`
 
